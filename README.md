@@ -29,4 +29,4 @@
   - Support chat integration
   - Nearest retail store locator using map services
 
-- **Documentation**: [Full SRS Document](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FaNugusXlqmJ6OVV5s1bL%2FOBw8AbCS8KUgOtDu%2Bojbcy%2FtJ3EG22BMPCoCyxshAO8q%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2FSRS%20MyMobile%20v.1.0.0.docx&name=SRS%20MyMobile%20v.1.0.0.docx&nosw=1)
+- **Documentation**: [Full SRS Document](SRS MyMobile v.1.0.0.docx)
